@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pecfwZoe
+- 👀 I’m interested in singing, dancing, signing, languages and keyboards.
+- 🌱 I’m currently learning Portuguese and how to monitor the code once in production.
+- 💞️ I’m looking to collaborate on design patterns and learning more about architecture.
+- 📫 How to reach me on slack is the best way
